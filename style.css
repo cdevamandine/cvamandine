@@ -1,0 +1,40 @@
+body
+{
+    background-color: rgb(59, 58, 58);
+    color: white;
+    
+}
+h2
+{
+    text-align: center; color: darkgoldenrod; font-family: Arial, Helvetica, sans-serif; font-size: large;border-bottom : 5px solid white; border-block-start-width: thick;
+    padding-block: 30px
+}
+h1
+{
+    text-align: center; color: white; font-family:Georgia, 'Times New Roman', Times, serif;font-size: 40px; margin-bottom: -15px
+}
+img
+{
+    border-image: auto; align-content: center;
+}
+h4
+{
+    border-bottom: 5px solid white;text-align: center; color: white; font-family:Georgia, 'Times New Roman', Times, serif;font-size: 20px;
+    padding-block: 20px; 
+}
+table 
+{
+    border-width:1px; 
+    border-style:solid; 
+    border-color: white;
+    width:100%;
+    background-color: darkgoldenrod;
+    border-spacing: initial; 
+    }
+   td { 
+    border-width:1px;
+    border-style:solid; 
+    border-color:transparent;
+    width:50%;
+    }
+   
